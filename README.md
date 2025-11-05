@@ -1,7 +1,6 @@
 # 🎬 MakeItMP4
 
-Convert **WebM** videos to **MP4** — instantly, right in your browser.  
-No uploads. No waiting. No quality loss. 🔥
+Convert **WebM** videos to **MP4** — instantly, right in your browser. No quality loss. 🔥
 
 > Powered by [FFmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) and built with [Vite](https://vitejs.dev/) + [React](https://react.dev/).
 
